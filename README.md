@@ -137,7 +137,8 @@ urlpatterns = [
 
 ## HOMEPAGE:
 
-![Screenshot 2024-04-28 131503](https://github.com/04Varsha/MathServer/assets/149035374/321aebcc-9e8f-471e-807d-680007ef6a0b)
+![bc62a66f-7dee-428b-aa89-bcd59477bbcb](https://github.com/04Varsha/MathServer/assets/133625914/4804a87b-38fa-4876-9dff-cd6e7f1f2b6c)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
