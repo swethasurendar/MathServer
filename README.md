@@ -134,8 +134,7 @@ urlpatterns = [
 ![Screenshot 2024-04-28 021305](https://github.com/04Varsha/MathServer/assets/149035374/74ec6119-a0bb-41f9-90ab-5a29b294ba40)
 
 ## HOMEPAGE:
-![Uploading bc62a66f-7dee-428b-aa89-bcd59477bbcb.jpeg…]()
-
+![bc62a66f-7dee-428b-aa89-bcd59477bbcb](https://github.com/swethasurendar/MathServer/assets/133625914/6c2475cb-89cc-4618-acdc-968b37c4ca77)
 
 
 ## RESULT:
